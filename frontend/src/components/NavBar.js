@@ -171,7 +171,7 @@ const NavBar = () => {
               {/* Social icons row */}
               <li className="pt-1 pr-2">
                 <div className="flex items-center justify-center gap-3">
-                  <a href="https://facebook.com" target="_blank" rel="noreferrer" aria-label="Facebook" className="p-1">
+                  <a href="https://facebook.com/schonphotography1" target="_blank" rel="noreferrer" aria-label="Facebook" className="p-1">
                     <img alt="Facebook" src="/assets/images/facebook.png" className="h-4 w-4" />
                   </a>
                   <a href="https://www.instagram.com/schon.weddings" target="_blank" rel="noreferrer" aria-label="Instagram" className="p-1">

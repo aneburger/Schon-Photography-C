@@ -81,7 +81,7 @@ const Footer = () => {
 
           {/* Socials */}
           <div className="flex items-center gap-5">
-            <a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer" aria-label="Facebook" className="hover:opacity-80">
+            <a href="https://www.facebook.com/schonphotography1" target="_blank" rel="noopener noreferrer" aria-label="Facebook" className="hover:opacity-80">
               <img alt="Facebook" src="/assets/images/facebook.png" className="h-6 w-6" />
             </a>
             <a href="https://www.instagram.com/schon.weddings" target="_blank" rel="noopener noreferrer" aria-label="Instagram" className="hover:opacity-80">
@@ -102,7 +102,7 @@ const Footer = () => {
       {/* Arroww bar full-width */}
       <div className="w-full bg-[#4A6741] text-[#F0F6EA]">
         <div className="w-full px-6 lg:px-10 py-3 text-center text-[15px]">
-          Powered by <a href="https://arroww.co.za" target="_blank" rel="noopener noreferrer" className="font-semibold">Arroww</a>
+          Powered by Arroww{/* <a href="https://arroww.co.za" target="_blank" rel="noopener noreferrer" className="font-semibold">Arroww</a> */}
         </div>
       </div>
 

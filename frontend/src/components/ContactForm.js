@@ -172,8 +172,8 @@ const ContactForm = ({ onCancel }) => {
         <div className="px-5 sm:px-8 pt-10 sm:pt-12">
             <h1 className="text-xl sm:text-2xl lg:text-3xl font-regular tracking-wide text-center">GET IN TOUCH</h1>
             <div className="mt-4 space-y-2 text-center text-xs sm:text-sm lg:text-base font-light">
-            <p>Every story begins with a simple hello. If something in our work resonates with you, we’d love to hear your vision.</p>
-            <p>Please complete the form below to enquire. We’d love to hear from you!</p>
+            <p>Every story begins with a simple hello. If something in our work resonates with you, we'd love to hear your vision.</p>
+            <p>Please complete the form below to enquire. We'd love to hear from you!</p>
             </div>
         </div>
 
@@ -214,7 +214,7 @@ const ContactForm = ({ onCancel }) => {
             {/* Contact info note, shown left on desktop, below inputs on mobile */}
             <div className="mt-6 text-center lg:text-left text-xs sm:text-sm font-light">
               <p>If we do not get back to you within 24hrs, please contact us at:</p>
-              <p className="mt-2">daneschonborn@gmail.com</p>
+              <p className="mt-2">info.schonphotography@gmail.com</p>
               <p>+27 12 345 6789</p>
             </div>
           </div>
