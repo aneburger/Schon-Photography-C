@@ -113,12 +113,16 @@ const ServiceCard = ({ title, subtitle, copy, img, pdfFileName, className = "" }
         <h3 className="mt-2 text-white/90 font-montserrat text-[14px] sm:text-[15px] lg:text-[16px] tracking-wide">
           {subtitle}
         </h3>
-        <p className="mt-4 max-w-md text-white/90 font-montserrat font-light text-[10px] sm:text-[14px] lg:text-[15px] leading-relaxed">
+        <p className="mt-4 max-w-[18rem] sm:max-w-[20rem] lg:max-w-[22rem] mx-auto text-white/90 font-montserrat font-light text-[10px] sm:text-[14px] lg:text-[15px] leading-relaxed">
           {copy}
         </p>
         <div className="mt-6">
           {/* <Contact buttonText={"Get a Quote"} /> */}
-          <button type="button" onClick={handleDownload}>
+          <button
+            type="button"
+            onClick={handleDownload}
+            className="inline-flex items-center px-4 py-2 rounded-md bg-[#D0DAC7] text-[#4A6741] font-montserrat text-sm lg:text-base shadow-sm hover:bg-[#c6d1bf] focus:outline-none focus:ring-2 focus:ring-[#4A6741]"
+          >
             Download Pricing Guide
           </button>
         </div>
