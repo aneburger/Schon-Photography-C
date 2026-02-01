@@ -35,7 +35,7 @@ const Services = () => {
             subtitle="FROM R6 500"
             copy= "We offer full-day, half-day and light coverage wedding packages."
             img="https://res.cloudinary.com/dgc7pj1dx/image/upload/v1764879048/VanSandwykBruidspaar-41_km6fnp.jpg"
-            pdfFileName="weddings.pdf"
+            pdfFileName="Schon-Weddings.pdf"
           />
 
           {/* Lifestyle */}
@@ -44,38 +44,8 @@ const Services = () => {
             subtitle="FROM R500"
             copy="We offer engagement, couples, matric farewell/formals, family and event packages."
             img="https://res.cloudinary.com/dgc7pj1dx/image/upload/v1764879430/JH-6_j8frlv.jpg"
-            pdfFileName="lifestyle.pdf"
+            pdfFileName="Schon-Lifestyle.pdf"
           />
-
-          {/* Engagement
-          <ServiceCard
-            title="ENGAGEMENT PACKAGES"
-            subtitle="FROM R850"
-            copy="For a surprise engagement, send us a message and we'll help you make sure every moment is captured."
-            img="https://res.cloudinary.com/dgc7pj1dx/image/upload/v1764879234/WLKerkpleinSchonPhotography-165_klbgxj.jpg"
-          />
-
-          <ServiceCard
-            title="FORMAL PACKAGES"
-            subtitle="FROM R1000"
-            copy="Matric Farewell packages start at 1 hour per couple. Feel free to reach out if you're booking for a larger group."
-            img="https://res.cloudinary.com/dgc7pj1dx/image/upload/v1764879345/MelindieenStephan-15_jk6r7x.jpg"
-          />
- 
-          <ServiceCard
-            title="COUPLE SESSIONS"
-            subtitle="FROM R600"
-            copy="All couple sessions are one hour minimum. You're welcome to enquire about extended session options."
-            img="https://res.cloudinary.com/dgc7pj1dx/image/upload/v1764879430/JH-6_j8frlv.jpg"
-          />
-
-          <ServiceCard
-            title="FAMILY SESSIONS"
-            subtitle="FROM R850"
-            copy="To capture your family's memories."
-            img="https://res.cloudinary.com/dgc7pj1dx/image/upload/v1764879540/SchonLifestyleOMPreviews-6_logts0.jpg"
-            className="lg:col-span-2"
-          /> */}
 
         </div>
       </div>
