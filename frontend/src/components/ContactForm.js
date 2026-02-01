@@ -215,7 +215,7 @@ const ContactForm = ({ onCancel }) => {
             <div className="mt-6 text-center lg:text-left text-xs sm:text-sm font-light">
               <p>If we do not get back to you within 24hrs, please contact us at:</p>
               <p className="mt-2">info.schonphotography@gmail.com</p>
-              <p>+27 12 345 6789</p>
+              <p>+27 72 065 7083</p>
             </div>
           </div>
 

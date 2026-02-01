@@ -1,6 +1,6 @@
 /*****************************************
  * Created On: 2025 / 12 / 01
- * Last Modified: 2026 / 01 / 18
+ * Last Modified: 2026 / 02 / 01
  * 
  * Author: Ané Burger t.a. Arroww Web Dev
  * 
@@ -35,13 +35,13 @@ const Services = () => {
             subtitle="FROM R6 500"
             copy= "We offer full-day, half-day and light coverage wedding packages."
             img="https://res.cloudinary.com/dgc7pj1dx/image/upload/v1764879048/VanSandwykBruidspaar-41_km6fnp.jpg"
-            pdfFileName="wedding.pdf"
+            pdfFileName="weddings.pdf"
           />
 
           {/* Lifestyle */}
           <ServiceCard
             title="LIFESTYLE PACKAGES"
-            subtitle="FROM R800"
+            subtitle="FROM R500"
             copy="We offer engagement, couples, matric farewell/formals, family and event packages."
             img="https://res.cloudinary.com/dgc7pj1dx/image/upload/v1764879430/JH-6_j8frlv.jpg"
             pdfFileName="lifestyle.pdf"
