@@ -102,7 +102,7 @@ const Footer = () => {
       {/* Arroww bar full-width */}
       <div className="w-full bg-[#4A6741] text-[#F0F6EA]">
         <div className="w-full px-6 lg:px-10 py-3 text-center text-[15px]">
-          Powered by Arroww{/* <a href="https://arroww.co.za" target="_blank" rel="noopener noreferrer" className="font-semibold">Arroww</a> */}
+          Powered by <a href="https://arroww.dev" target="_blank" rel="noopener noreferrer" className="font-semibold">Arroww</a>
         </div>
       </div>
 
